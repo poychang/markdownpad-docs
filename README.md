@@ -20,9 +20,9 @@ markdownpad-docs
    4. GitHub Flavored Markdown
    5. GitHub Flavored Markdown (Offline)
 8. Markdown進階操作
+9. 附錄
+	1. 附錄 I: MarkdownPad快捷鍵一覽表
+	2. 附錄 II: MarkdownPad技巧
+	3. 附錄 III: 延伸閱讀
 
-Appendix I: MarkdownPad快捷鍵一覽表
-Appendix II: MarkdownPad技巧
-Appendix III: 延伸閱讀
-
-本文件原文作者為[Evan Wondrasek](https://github.com/evanwon)
+原文作者：[Evan Wondrasek](https://github.com/evanwon)
